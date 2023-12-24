@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mastan Shaik</h1>
 <h3 align="center">I am coding enthusiast</h3>
-<img align="right" width=450 alt ="coding" src="https://images.app.goo.gl/6ZqSTemA3MikBuBK6">
+<img align="right" width=400 alt="coding" src="https://images.app.goo.gl/6ZqSTemA3MikBuBK6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastan45&label=Profile%20views&color=0e75b6&style=flat" alt="mastan45" /> </p>
 
