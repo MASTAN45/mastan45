@@ -1,4 +1,4 @@
-![logo](https://github.com/Mastab45/mastan45/blob/20231224_232931_0000.png)
+![logo](20231224_232931_0000.png) 
 <h1 align="center">Hi 👋, I'm Mastan Shaik</h1>
 <h3 align="center">A Passionate Software Engineer From India</h3>
 <img align="right" alt="coding"width="400"src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif">
